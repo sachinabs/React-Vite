@@ -7,6 +7,9 @@ Vite is a new frontend build tool that aims to improve the developer experience 
 1. Clone the project.
 2. npm i to install all the dependencies.
 3. Run the script
-   npm run dev      => On development
-   npm run build    => Build the Vite application.
-   npm run preview  => Run the project.
+
+npm run dev      => On development.
+
+npm run build    => Build the Vite application.
+
+npm run preview  => Run the project.
